@@ -6,3 +6,5 @@ gender = 'nan'
 
 def fn():
 	return "你好"
+
+fn()
