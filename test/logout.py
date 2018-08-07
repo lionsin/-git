@@ -8,4 +8,7 @@ sex = 'nv'
 
 interest = 'football'
 
+def run():
+	return 'run'
+
 
