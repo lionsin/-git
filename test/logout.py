@@ -6,4 +6,7 @@ gender = 'nan'
 
 interest = 'football'
 
+def jump():
+	return "jump"
+
 
